@@ -8,10 +8,10 @@ JavaScript : Pour ajouter des animations.
 
 # Comment démarrer
 Clonez ce repository : git clone https://github.com/LamariAzzeddine/Fiverr-clone.git     
-Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.
+Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.  
 
-# Captures d'écran
-(Insérez ici des captures d'écran de votre projet)
+(Fiverr clone/Screenshot/img1.png)
+
 
 # Contribuer
 Les contributions sont les bienvenues. Veuillez créer une issue pour discuter de ce que vous aimeriez changer.
