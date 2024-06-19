@@ -2,7 +2,7 @@
 Ce projet est un clone de Fiverr, développé en utilisant uniquement HTML et CSS. Il reproduit l'apparence et la disposition du site Fiverr, permettant de mieux comprendre et pratiquer les compétences en conception de sites web.
 
 # Technologies utilisées
-HTML5 : Pour la structure et le contenu du site.
+HTML5 : Pour la structure et le contenu du site.  
 CSS3 : Pour le style et la mise en page du site.
 
 # Comment démarrer
