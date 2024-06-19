@@ -3,11 +3,12 @@ Ce projet est un clone de Fiverr, développé en utilisant uniquement HTML et CS
 
 # Technologies utilisées
 HTML5 : Pour la structure et le contenu du site.  
-CSS3 : Pour le style et la mise en page du site.
+CSS3 : Pour le style et la mise en page du site.  
+JavaScript : Pour ajouter des animations. 
 
 # Comment démarrer
-Clonez ce repository : git clone https://github.com/LamariAzzeddine/Fiverr-clone.git   
-Ouvrez le fichier index.html dans votre navigateur pour voir le site en action.
+Clonez ce repository : git clone https://github.com/LamariAzzeddine/Fiverr-clone.git     
+Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.
 
 # Captures d'écran
 (Insérez ici des captures d'écran de votre projet)
