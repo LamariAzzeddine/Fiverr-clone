@@ -11,6 +11,9 @@ Clonez ce repository : git clone https://github.com/LamariAzzeddine/Fiverr-clone
 Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.  
 
 <img src="Fiverr clone/Screenshot/img1.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img2.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img3.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img11.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 
 # Contribuer
 Les contributions sont les bienvenues. Veuillez créer une issue pour discuter de ce que vous aimeriez changer.
