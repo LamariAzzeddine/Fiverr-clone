@@ -6,7 +6,7 @@ HTML5 : Pour la structure et le contenu du site.
 CSS3 : Pour le style et la mise en page du site.
 
 # Comment démarrer
-Clonez ce repository : git clone https://github.com/votre-utilisateur/fiverr-clone.git
+Clonez ce repository : git clone https://github.com/votre-utilisateur/fiverr-clone.git  
 Ouvrez le fichier index.html dans votre navigateur pour voir le site en action.
 
 # Captures d'écran
