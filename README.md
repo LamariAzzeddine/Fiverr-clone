@@ -13,6 +13,10 @@ Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.
 <img src="Fiverr clone/Screenshot/img1.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 <img src="Fiverr clone/Screenshot/img2.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 <img src="Fiverr clone/Screenshot/img3.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img4.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img8.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img9.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
+<img src="Fiverr clone/Screenshot/img10.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 <img src="Fiverr clone/Screenshot/img11.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 
 # Contribuer
