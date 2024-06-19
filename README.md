@@ -10,7 +10,7 @@ JavaScript : Pour ajouter des animations.
 Clonez ce repository : git clone https://github.com/LamariAzzeddine/Fiverr-clone.git     
 Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.  
 
-![Page d'accueil](Fiverr clone/Screenshot/img1.png)
+<img src="Fiverr clone/Screenshot/img1.png" alt="Screenshot" style="display: block; margin: 0 auto; zoom: 50%;" />
 
 # Contribuer
 Les contributions sont les bienvenues. Veuillez créer une issue pour discuter de ce que vous aimeriez changer.
