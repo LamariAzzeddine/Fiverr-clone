@@ -17,4 +17,4 @@ Ouvrez le fichier fiverr.html dans votre navigateur pour voir le site en action.
 Les contributions sont les bienvenues. Veuillez créer une issue pour discuter de ce que vous aimeriez changer.
 
 # Auteur
-Votre Nom - Développeur principal - Votre Profil GitHub
+https://github.com/LamariAzzeddine
